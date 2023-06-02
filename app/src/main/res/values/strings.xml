@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">protoRedevi</string>
+    <string name="inicio">Inicio</string>
+    <string name="muebles">Presupuestos</string>
+    <string name="Favoritos">Tienda</string>
+    <string name="redevi">Redevi</string>
+    <string name="identifica_tu_mueble">¡Analiza tu habitación!</string>
+    <string name="title_activitymueble">mueble</string>
+    <string name="action_settings">Settings</string>
+    <string name="tus_muebles">Tus muebles</string>
+    <string name="descubre">Descubre</string>
+    <string name="title_activity_presupuestos">Presupuestos</string>
+
+</resources>

@@ -1,0 +1,5 @@
+Cocina
+Saalón
+Comedor
+Pasillo
+...

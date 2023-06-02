@@ -1,0 +1,49 @@
+Sofá
+Silla
+Mesa de comedor
+Mesa de centro
+Escritorio
+Cama
+Armario
+Cómoda
+Estantería
+Librero
+Mesita de noche
+Aparador
+Cuna
+Sillón
+Taburete
+Banco
+Otomana
+Cabecero de cama
+Perchero
+Zapatero
+Vitrina
+Mueble de televisión
+Divisor de ambiente
+Caja de almacenamiento
+Mueble para baño
+Mueble para cocina
+Mueble para jardín
+Tocador
+Espejo de cuerpo entero
+Butaca
+Mecedora
+Mesa de escritorio
+Mesa auxiliar
+Mesita de café
+Biombo
+Estudio de esquina
+Silla giratoria
+Banco de almacenamiento
+Banco de trabajo
+Estante flotante
+Cabina de ducha
+Cama nido
+Litera
+Sofá cama
+Tumbona
+Hamaca
+Mesa de bar
+Tablero de ajedrez
+Mesa de juego
